@@ -199,6 +199,7 @@ footer .social a:last-child:hover {
     display: flex;
     flex-direction: column;
     align-items: center;
+    background-attachment: initial;
   }
   footer a {
     padding: 0 0.5rem;

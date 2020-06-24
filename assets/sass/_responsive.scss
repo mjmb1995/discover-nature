@@ -5,6 +5,7 @@
         h1 {
             font-size: 9rem;
             @include Flex(column);
+            background-attachment: initial;
         }
     }
     footer {
@@ -18,7 +19,7 @@
     .right {
         h1 {
             font-size: 7rem;
-            @include Flex(column);
+            @include Flex(column);           
         }
     }
     footer {
